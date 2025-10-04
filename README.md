@@ -1,8 +1,13 @@
 👉This project simulates real-world banking operations with a simple, menu-driven interface:
+
 ✅ Deposit
+
 ✅ Withdraw
+
 ✅ Check Balance
+
 ✅ Transaction History 
+
 ✅  Exit
 
 🔹 Tech Used: Python (functions, loops, conditional statements, user input, datetime module).
